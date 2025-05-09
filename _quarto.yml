@@ -11,10 +11,10 @@ website:
     left:
       - icon: house-door
         text: " "
-        href: indexen.qmd
+        href: index.qmd
       - icon: person
         text: " "
-        href: abouten.qmd
+        href: about.qmd
     right:
       - text: "🌐"
         menu:

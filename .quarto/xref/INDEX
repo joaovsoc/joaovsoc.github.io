@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "a9ba50ff"
+  },
+  "about.qmd": {
+    "about.html": "128b3075"
+  },
+  "about.pt.qmd": {
+    "about.pt.html": "721bfbf7"
+  },
+  "index.pt.qmd": {
+    "index.pt.html": "597a8fae"
+  },
+  "aboutpt.qmd": {
+    "aboutpt.html": "3d8e3ae3"
+  },
+  "indexpt.qmd": {
+    "indexpt.html": "a7120128"
+  },
+  "indexen.qmd": {
+    "indexen.html": "276f6096"
+  },
+  "abouten.qmd": {
+    "abouten.html": "9c48bc89"
+  },
+  "aboutes.qmd": {
+    "aboutes.html": "ffe411d9"
+  },
+  "aboutfr.qmd": {
+    "aboutfr.html": "5f03605b"
+  },
+  "indexes.qmd": {
+    "indexes.html": "3a32e6a3"
+  },
+  "indexfr.qmd": {
+    "indexfr.html": "fd0363b7"
+  }
+}

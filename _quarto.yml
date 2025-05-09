@@ -1,0 +1,37 @@
+project:
+  type: website
+
+
+website:
+  title: "João V. F. Moreira"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - icon: house-door
+        text: " "
+        href: indexen.qmd
+      - icon: person
+        text: " "
+        href: abouten.qmd
+    right:
+      - text: "🌐"
+        menu:
+          - text: "English"
+            href: indexen.qmd
+          - text: "Português"
+            href: indexpt.qmd
+          - text: "Español"
+            href: indexes.qmd
+          - text: "Français"
+            href: indexfr.qmd
+      - icon: envelope
+        href: mailto:joaovictorfigueiredo01@outlook.com
+      - icon: github
+        href: https://github.com/joaovsoc
+    
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true

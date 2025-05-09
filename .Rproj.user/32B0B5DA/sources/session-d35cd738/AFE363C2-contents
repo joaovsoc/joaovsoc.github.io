@@ -1,0 +1,32 @@
+---
+title: "João V. F. Moreira"
+lang: es
+about:
+  id: hero-heading
+  template: jolla
+  image: images/IMG_0789 - Copia.jpg
+---
+
+::: {#hero-heading}
+Estudiante de maestría en Sociología en la Universidad Federal de Minas Gerais (UFMG) y analista de investigación en el Instituto Ver, con experiencia en investigación social, análisis de datos, encuestas electorales y evaluación de políticas públicas.
+
+## Formación académica
+
+Universidad Federal de Minas Gerais (UFMG) \| Belo Horizonte, Brasil\
+Maestría en Sociología \| 2025 - 2026
+
+Universidad Federal de Minas Gerais \| Belo Horizonte, Brasil\
+Licenciatura en Ciencias Sociales \| 2020 - 2024
+:::
+
+::: {.callout-note collapse="true"}
+## Language/Idioma/Langue
+
+This website is available in multiple languages. Select your preferred language from the globe icon (🌐) in the navigation bar.
+
+Este site está disponível em vários idiomas. Selecione seu idioma preferido no ícone de globo (🌐) na barra de navegação.
+
+Este sitio está disponible en varios idiomas. Seleccione su idioma preferido en el icono de globo (🌐) en la barra de navegação.
+
+Ce site est disponible en plusieurs langues. Sélectionnez votre langue préférée dans l'icône du globe (🌐) dans la barre de navigation.
+:::

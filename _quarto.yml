@@ -19,7 +19,7 @@ website:
       - text: "🌐"
         menu:
           - text: "English"
-            href: indexen.qmd
+            href: index.qmd
           - text: "Português"
             href: indexpt.qmd
           - text: "Español"

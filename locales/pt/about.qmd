@@ -7,14 +7,4 @@ João Victor Figueiredo Moreira é mestrando em Sociologia e bacharel em Ciênci
 Foi bolsista da Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) no projeto "Indicadores e diretrizes para a construção de uma política de mobilidade urbana inclusiva e sustentável para a população idosa", e do CNPq em pesquisa voltada às relações de gênero nos esportes eletrônicos. Atua também como analista de pesquisa no Instituto Ver, com experiência em elaboração de questionários, desenho amostral, análise de dados em R, SPSS e Excel.
 
 Suas publicações incluem artigos e capítulos além de apresentações em congressos nacionais e internacionais.
-::: {.callout-note collapse="true"}
-## Language/Idioma/Langue
 
-This website is available in multiple languages. Select your preferred language from the globe icon (🌐) in the navigation bar.
-
-Este site está disponível em vários idiomas. Selecione seu idioma preferido no ícone de globo (🌐) na barra de navegação.
-
-Este sitio está disponible en varios idiomas. Seleccione su idioma preferido en el icono de globo (🌐) en la barra de navegação.
-
-Ce site est disponible en plusieurs langues. Sélectionnez votre langue préférée dans l'icône du globe (🌐) dans la barre de navigation.
-:::

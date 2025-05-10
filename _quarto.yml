@@ -13,7 +13,15 @@ website:
         href: index.qmd
       - icon: person
         text: " "
-        href: about.qmd
+        menu:
+          - text: "About"
+            href: /about.html
+          - text: "Sobre"
+            href: /locales/pt/about.html
+          - text: "Acerca de"
+            href: /locales/es/about.html
+          - text: "À propos"
+            href: /locales/fr/about.html
     right:
       - text: "🌐"
         menu:
@@ -39,6 +47,12 @@ format:
 language:
   default: en
   translations:
-    pt: locales/pt
-    es: locales/es
-    fr: locales/fr
+    pt: 
+      href: /locales/pt/
+      text: Português
+    es: 
+      href: /locales/es/
+      text: Español
+    fr: 
+      href: /locales/fr/
+      text: Français

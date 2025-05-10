@@ -7,14 +7,4 @@ João Victor Figueiredo Moreira est étudiant en master de sociologie et titulai
 Il a été boursier de la Fondation de Soutien à la Recherche de l'État du Minas Gerais (FAPEMIG) dans le cadre du projet « Indicateurs et lignes directrices pour l'élaboration d'une politique de mobilité urbaine inclusive et durable pour la population âgée », ainsi que du CNPq pour une recherche sur les rapports de genre dans les sports électroniques. Il travaille également comme analyste de recherche à l'Institut Ver, avec une expérience en élaboration de questionnaires, conception d'échantillons et analyse de données avec R, SPSS et Excel.
 
 Ses publications comprennent des articles scientifiques, des chapitres d'ouvrages et des communications dans des colloques nationaux et internationaux.
-::: {.callout-note collapse="true"}
-## Language/Idioma/Langue
 
-This website is available in multiple languages. Select your preferred language from the globe icon (🌐) in the navigation bar.
-
-Este site está disponível em vários idiomas. Selecione seu idioma preferido no ícone de globo (🌐) na barra de navegação.
-
-Este sitio está disponible en varios idiomas. Seleccione su idioma preferido en el icono de globo (🌐) en la barra de navegação.
-
-Ce site est disponible en plusieurs langues. Sélectionnez votre langue préférée dans l'icône du globe (🌐) dans la barre de navigation.
-:::

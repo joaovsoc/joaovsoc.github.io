@@ -1,7 +1,6 @@
 project:
   type: website
-  output-dir: docs 
-
+  output-dir: docs
 
 website:
   title: "João V. F. Moreira"
@@ -19,20 +18,27 @@ website:
       - text: "🌐"
         menu:
           - text: "English"
-            href: index.qmd
+            href: /index.html
           - text: "Português"
-            href: indexpt.qmd
+            href: /locales/pt/index.html
           - text: "Español"
-            href: indexes.qmd
+            href: /locales/es/index.html
           - text: "Français"
-            href: indexfr.qmd
+            href: /locales/fr/index.html
       - icon: envelope
         href: mailto:joaovictorfigueiredo01@outlook.com
       - icon: github
         href: https://github.com/joaovsoc
-    
+
 format:
   html:
     theme: lux
     css: styles.css
     toc: true
+
+language:
+  default: en
+  translations:
+    pt: locales/pt
+    es: locales/es
+    fr: locales/fr

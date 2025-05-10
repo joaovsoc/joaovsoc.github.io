@@ -34,5 +34,23 @@
   },
   "indexfr.qmd": {
     "indexfr.html": "fd0363b7"
+  },
+  "locales/es/about.qmd": {
+    "about.html": "43b1d18e"
+  },
+  "locales/es/index.qmd": {
+    "index.html": "8dfae61d"
+  },
+  "locales/fr/about.qmd": {
+    "about.html": "405b3ad0"
+  },
+  "locales/fr/index.qmd": {
+    "index.html": "e6c52cdd"
+  },
+  "locales/pt/about.qmd": {
+    "about.html": "fb9f86ec"
+  },
+  "locales/pt/index.qmd": {
+    "index.html": "d90d6418"
   }
 }

@@ -7,3 +7,15 @@ João Victor Figueiredo Moreira es estudiante de maestría en Sociología y lice
 Fue becario de la Fundación de Apoyo a la Investigación del Estado de Minas Gerais (FAPEMIG) en el proyecto "Indicadores y directrices para la construcción de una política de movilidad urbana inclusiva y sostenible para la población anciana", y del CNPq en una investigación sobre relaciones de género en los deportes electrónicos. También trabaja como analista de investigación en el Instituto Ver, con experiencia en la elaboración de cuestionarios, diseño muestral y análisis de datos en R, SPSS y Excel.
 
 Sus publicaciones incluyen artículos, capítulos de libros y presentaciones en congresos nacionales e internacionales.
+
+::: {.callout-note collapse="true"}
+## Language/Idioma/Langue
+
+This website is available in multiple languages. Select your preferred language from the globe icon (🌐) in the navigation bar.
+
+Este site está disponível em vários idiomas. Selecione seu idioma preferido no ícone de globo (🌐) na barra de navegação.
+
+Este sitio está disponible en varios idiomas. Seleccione su idioma preferido en el icono de globo (🌐) en la barra de navegação.
+
+Ce site est disponible en plusieurs langues. Sélectionnez votre langue préférée dans l'icône du globe (🌐) dans la barre de navigation.
+:::

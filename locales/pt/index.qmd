@@ -4,7 +4,7 @@ lang: pt
 about:
   id: hero-heading
   template: jolla
-  image: images/IMG_0789 - Copia.jpg
+  image: ../../images/IMG_0789 - Copia.jpg
 ---
 
 ::: {#hero-heading}

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "João Victor Figueiredo Moreira is a master’s student in Sociology and holds a bachelor’s degree in Social Sciences from the Federal University of Minas Gerais (UFMG). His research focuses on the intersection of urban mobility, population aging, and socio-spatial inequalities, with an emphasis on the Metropolitan Region of Belo Horizonte. He is a member of the Urban Studies Center (CEURB/UFMG) and works on projects analyzing the mobility of older adults.\nHe was a research fellow at the Research Support Foundation of the State of Minas Gerais (FAPEMIG) in the project “Indicators and Guidelines for the Development of an Inclusive and Sustainable Urban Mobility Policy for the Elderly Population,” and a CNPq fellow in a study on gender relations in electronic sports. He also works as a research analyst at Instituto Ver, with experience in questionnaire development, sampling design, and data analysis using R, SPSS, and Excel.\nHis academic output includes journal articles, book chapters, and presentations at national and international conferences."
+  },
+  {
     "objectID": "abouten.html",
     "href": "abouten.html",
     "title": "About",
@@ -26,6 +33,20 @@
     "title": "Sobre",
     "section": "",
     "text": "João Victor Figueiredo Moreira é mestrando em Sociologia e bacharel em Ciências Sociais pela Universidade Federal de Minas Gerais (UFMG). Desenvolve pesquisas na interface entre mobilidade urbana, envelhecimento populacional e desigualdades socioespaciais, com foco na Região Metropolitana de Belo Horizonte. Integra o Centro de Estudos Urbanos (CEURB/UFMG) e atua em projetos voltados à análise de mobilidade de pessoas idosas.\nFoi bolsista da Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) no projeto “Indicadores e diretrizes para a construção de uma política de mobilidade urbana inclusiva e sustentável para a população idosa”, e do CNPq em pesquisa voltada às relações de gênero nos esportes eletrônicos. Atua também como analista de pesquisa no Instituto Ver, com experiência em elaboração de questionários, desenho amostral, análise de dados em R, SPSS e Excel.\nSuas publicações incluem artigos e capítulos além de apresentações em congressos nacionais e internacionais."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "João V. F. Moreira",
+    "section": "",
+    "text": "Graduate student in Social Sciences at the Federal University of Minas Gerais (UFMG) and Research Analyst at Instituto Ver, with expertise in social research, data analysis, electoral polls, and public policy evaluation.\n\n\nFederal University of Minas Gerais (UFMG) | Belo Horizonte, Brazil\nMA in Sociology | 2025 - 2026\nFederal University of Minas Gerais | Belo Horizonte, Brazil\nBA in Social Sciences | 2020 - 2024"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "João V. F. Moreira",
+    "section": "",
+    "text": "Federal University of Minas Gerais (UFMG) | Belo Horizonte, Brazil\nMA in Sociology | 2025 - 2026\nFederal University of Minas Gerais | Belo Horizonte, Brazil\nBA in Social Sciences | 2020 - 2024"
   },
   {
     "objectID": "indexen.html",
